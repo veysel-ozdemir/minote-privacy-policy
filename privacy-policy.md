@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Data Storage
 We do not request your personal information to use our service.
 
-This app uses a local database, in other words, it creates its own database inside your devices’s internal memory and stores the created notes there. As a consequence, deleting the app will cause the created notes to be deleted and cannot be restored afterwards.
+This app uses a local database, in other words, it creates its own database in the internal memory of your device and stores the created notes there. As a consequence, deleting the app will cause the created notes to be deleted and cannot be restored afterwards.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
